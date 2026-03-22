@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bing Liu"
+title: "Thank you for your interest. Let's collaborate! 🤝"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -22,7 +22,7 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 <br>
 
-Find here a 2-pages <a href="/BL-CV.pdf" download>CV</a> (last update: 2026-03-23).
+Find here a 2-pages <a href="./BL-CV.pdf" download>CV</a> (last update: 2026-03-23).
 
 
 </div>
