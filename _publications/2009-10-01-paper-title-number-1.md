@@ -17,4 +17,4 @@ venue: 'Expert Systems with Applications.'
 - Life cycle discovery: Identifies three typical evolution patterns of computer science sub-fields via DTW distance-based clustering.
 - Spatial mechanisms: Reveals the dynamic, nonlinear effects of spatial concentration and ubiquity on field popularity.
 
-![研究框架图](/images/A1.pdf)
+![研究框架图](/images/A1.jpg)
