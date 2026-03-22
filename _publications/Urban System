@@ -43,6 +43,7 @@ venue: 'Information Processing & Management'
   .figure-caption {
     font-size: 0.85em;
     color: #555;
+    text-align: justify; 
     margin-top: 8px;
   }
 </style>
