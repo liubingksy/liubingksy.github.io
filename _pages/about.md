@@ -22,7 +22,9 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 <br>
 
-Find here a 2-pages <a href="CV.pdf" class='download' download='download'>CV</a> (last update: 2026-03-23).
+Find here a 2-pages <a href="file.pdf" download="CV.pdf">CV</a> (last update: 2026-03-23).
+
+
 
 </div>
 
