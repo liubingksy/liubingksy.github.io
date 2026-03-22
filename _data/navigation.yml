@@ -9,17 +9,13 @@
 
 main:
 
-- title: "Bio"
-  url: "/about/#bio"
-  weight: 1
-
-
-
+- title: "Bios"
+url: /pages/about/bios
 #  - title: "Publications"
-#   - title: "Research"
-#    url: /publications/
+# - title: "Research"
+#   url: /publications/
     
-#- title: "Educations"
+# - title: "Educations"
 #  url: "/about/#educations"
 
 
