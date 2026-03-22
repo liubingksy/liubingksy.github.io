@@ -45,6 +45,8 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 - ***2021.09 - 2026.06 (expected)***, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
 - ***2015.09 - 2019.06***, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China
 
+A "/#bio"
+
 <br>
 
 
