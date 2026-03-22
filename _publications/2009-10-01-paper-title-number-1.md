@@ -26,7 +26,7 @@ venue: 'Expert Systems with Applications.'
     <img src="/images/A2.jpg" alt="Fig B" width="100%">
   </div>
   <figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 8px;">
-    <strong>Main Results</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
+    <strong>Main Results</strong>：(a) Schematic of a field’s popularity life cycle, and three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
   </figcaption>
 </div>
 
