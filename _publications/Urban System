@@ -30,11 +30,11 @@ venue: 'Information Processing & Management'
     text-align: center;
   }
   .figure-item img {
-    max-width: 100%;
-    height: auto;
+    width: 350px;  
+    height: 250px; 
+    object-fit: cover; 
     border: 1px solid #ddd;
     border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
   .figure-caption {
     font-size: 0.85em;
