@@ -9,9 +9,9 @@
 
 main:
 
-- name: "Bio"
-url: "/about/#bio"
-weight: 1
+- title: "Bio"
+  url: "/about/#bio"
+  weight: 1
 
 
 
