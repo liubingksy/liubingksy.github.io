@@ -12,13 +12,13 @@ venue: 'Information Processing & Management'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-Highlights:
-
-- This research conducts a spatial–temporal analysis of real-time navigation data.
-- This research reveals four typical traffic accessibility evolution patterns.
-- A new indicator is introduced to resemble the spin direction in the Ising model.
-- Phase transition-like phenomena are identified through the phase diagrams.
-
+<p><strong>Highlights:</strong></p>
+<ul>
+  <li>This research conducts a spatial–temporal analysis of real-time navigation data.</li>
+  <li>This research reveals four typical traffic accessibility evolution patterns.</li>
+  <li>A new indicator is introduced to resemble the spin direction in the Ising model.</li>
+  <li>Phase transition-like phenomena are identified through the phase diagrams.</li>
+</ul>
 
 <br>
 
