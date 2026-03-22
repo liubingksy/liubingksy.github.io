@@ -12,8 +12,8 @@ main:
 #   - title: "Research"
 #    url: /publications/
     
-- title: "eudcations"
-    url: "/#eudcations"
+- title: "Eudcations"
+  url: "#eudcations"
 
     
 #  - title: "Talks"
