@@ -10,10 +10,10 @@
 main:
 
   - title: "Bio"
-    url: #bio 
+    url: /about#bio 
 
   - title: "Educations"
-    url: /about/#educations
+    url: /about#educations
   
   - title: "Research"
     url: /publications/    
