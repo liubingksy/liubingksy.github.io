@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD candidate in Applied Mathematics working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing \& Management, and JASIS\&T.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
