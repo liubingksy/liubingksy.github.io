@@ -13,11 +13,16 @@ main:
     url: https://liubingksy.github.io/#bio
 
   - title: "Educations"
-    url: /about#educations
+    url: https://liubingksy.github.io/#educations
   
   - title: "Research"
     url: /publications/    
-  
+
+  - title: "Honors and Awards"
+    url: https://liubingksy.github.io/#honors
+
+  - title: "Additional Experiences"
+    url: https://liubingksy.github.io/#additional
   
 
 #  - title: "Teaching"
