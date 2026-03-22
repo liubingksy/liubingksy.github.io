@@ -37,7 +37,7 @@ venue: 'Expert Systems with Applications'
 <style>
   .figure-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 30px;
     margin: 20px 0;
   }
