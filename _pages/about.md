@@ -27,10 +27,10 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 <div style="text-align: justify">
 I am a PhD candidate in Applied Mathematics at Beihang University, working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
-</div>
 
 **Research keywords**: Data Science, Science of Science, Computational Social Science, Network Science.
 
+</div>
 <br>
 
 <!--
@@ -40,7 +40,8 @@ I am a PhD candidate in Applied Mathematics at Beihang University, working at th
 -->
 
 # 📝 Publications 
-
+<div style="text-align: justify">
+  
 [1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 
 **Bing Liu**, Yifang Ma, Shibing Xiang, Jin Zhang, Yi Kuang, and Xin Jiang
@@ -65,16 +66,29 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
 
+</div>
+
 <div style="text-align: justify">
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Second-Level School Scholarship
+- *2021* Third Prize, University Data Journalism Visualization Creative Competition
+- *2019* Outstanding Undergraduate Thesis Award
+- *2019* First-Level School Scholarship
+- *2018* Honorable Mention, The International Mathematical Contest in Modeling (MCM)
+- *2017* Second Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2017* First-Level School Scholarship
+- *2017* School Outstanding Student Cadre
+- *2016* Merit Student
+- *2016* Second-Level School Scholarship
+- *2015* Second-Level School Scholarship
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2026.06 (expected)*, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
+- *2015.09 - 2019.06*, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
