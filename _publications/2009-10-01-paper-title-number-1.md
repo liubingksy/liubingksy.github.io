@@ -11,4 +11,10 @@ venue: 'Expert Systems with Applications.'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+# 这里可以加一下摘要进去
+
+Highlights:
+- Composite popularity metric: Introduces a composite metric that integrates outputs and team size to capture real-time, direct field intensity.
+- Life cycle discovery: Identifies three typical evolution patterns of computer science sub-fields via DTW distance-based clustering.
+- Spatial mechanisms: Reveals the dynamic, nonlinear effects of spatial concentration and ubiquity on field popularity.
