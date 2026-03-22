@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: justify">
-Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, education, and research highlights.
+Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, education, etc. For a research overview and a complete list of publications, please see the "Research" section.
 </div>
 
 <br>
@@ -40,7 +40,7 @@ I am a PhD candidate in Applied Mathematics at Beihang University, working at th
 -->
 
 # 📝 Publications 
-<div style="text-align: justify">
+
 [1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 
 **Bing Liu**, Yifang Ma, Shibing Xiang, Jin Zhang, Yi Kuang, and Xin Jiang
@@ -64,6 +64,8 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 [6] ***2020.10*** [Big data mining for spatial-temporal characteristics of catering data](https://doi.org/10.1109/CCCI49893.2020.9256520), In: *2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)*.
 
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
+
+<div style="text-align: justify">
 </div>
 
 # 🎖 Honors and Awards
