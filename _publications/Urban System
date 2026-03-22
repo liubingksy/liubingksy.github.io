@@ -12,7 +12,7 @@ venue: 'Information Processing & Management'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-### Highlights:
+Highlights:
 
 - This research conducts a spatial–temporal analysis of real-time navigation data.
 - This research reveals four typical traffic accessibility evolution patterns.
@@ -34,7 +34,7 @@ venue: 'Information Processing & Management'
     width: 450px;
     height: 320px;
     object-fit: contain;  
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     border-radius: 4px;
     background-color: transparent; 
   }
