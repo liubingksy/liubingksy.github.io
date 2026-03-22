@@ -10,7 +10,7 @@
 main:
 
   - title: "Bio"
-    url: /about#bio 
+    url: https://liubingksy.github.io/#bio
 
   - title: "Educations"
     url: /about#educations
