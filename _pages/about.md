@@ -24,8 +24,6 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 Find here a 2-pages <a href="CV.pdf" target="_blank">CV</a> (last update: 2026-03-23).
 
-
-
 </div>
 
 <br>
@@ -37,7 +35,6 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 </div>
 
 **Research keywords**: Data Science, Science of Science, Computational Social Science, Network Science.
-
 
 <br>
 
