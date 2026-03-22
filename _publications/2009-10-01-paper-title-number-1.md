@@ -17,4 +17,15 @@ venue: 'Expert Systems with Applications.'
 - Life cycle discovery: Identifies three typical evolution patterns of computer science sub-fields via DTW distance-based clustering.
 - Spatial mechanisms: Reveals the dynamic, nonlinear effects of spatial concentration and ubiquity on field popularity.
 
-![研究框架图](/images/A1.jpg)
+<figure style="text-align: center; margin: 20px 0;">
+  <img src="/images/A1.jpg" 
+       alt="研究框架图" 
+       width="85%" 
+       style="border: 1px solid #ddd; border-radius: 4px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+    <strong>Fig 1</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. 
+  </figcaption>
+</figure>
+
+
+
