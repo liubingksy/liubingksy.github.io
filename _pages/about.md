@@ -26,7 +26,6 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 ## 🌍 Bio
 
-
 <div style="text-align: justify">
 I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/" target="_blank">Beihang University</a>, working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
 
@@ -49,7 +48,7 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 
 <br>
 
-## 📑 Publications 
+## 📝 Publications 
 
 [1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 <br>
