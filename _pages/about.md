@@ -25,7 +25,7 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 
 
 <a id="Bio"></a>
-# 🌍 Bio
+## 🌍 Bio
 
 <div style="text-align: justify">
 I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/" target="_blank">Beihang University</a>, working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
@@ -42,13 +42,15 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📖 Educations
+<a id="Educations"></a>
+## 📖 Educations
 - ***2021.09 - 2026.06 (expected)***, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
 - ***2015.09 - 2019.06***, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China
 
 <br>
 
-# 📝 Publications 
+<a id="Publications"></a>
+## 📝 Publications 
 
 [1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 <br>
@@ -76,7 +78,8 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 
 <br>
 
-# 🎖 Honors and Awards
+<a id="Honors and Awards"></a>
+## 🎖 Honors and Awards
 - ***2019 - 2025*** Second-Level School Scholarship
 - ***2021*** Third Prize, University Data Journalism Visualization Creative Competition
 - ***2019*** Outstanding Undergraduate Thesis Award
@@ -89,7 +92,8 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 
 <br>
 
-# 💬 Additional Experience
+<a id="Additional Experience"></a>
+## 💬 Additional Experience
 - ***2024.06*** Invited Participant, The University of Hong Kong <br>
 Workshop: HKU 2024 Summer Workshop on Statistics and Data Analytics <br>
 Responsibilities: Attended advanced statistical methods and data analysis workshops, and interacted with participants
