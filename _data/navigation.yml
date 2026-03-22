@@ -13,7 +13,7 @@ main:
     url: /publications/
 
 - title: "Bio"
-  url: #Bio
+  url: # 🌍 Bio
 
 #  - title: "Talks"
 #    url: /talks/    
