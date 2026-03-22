@@ -11,6 +11,9 @@ main:
 
   - title: "Bio"
     url: /about/#bio 
+
+  - title: "Educations"
+    url: /about/#educations
   
   - title: "Research"
     url: /publications/    
