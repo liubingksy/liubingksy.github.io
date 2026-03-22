@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: justify">
-Hello! 👋 Welcome to my homepage! You can find my bio, publications, education, etc. For a research overview and a complete list of publications, please see the "Research" section. 
+Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, etc. For a research overview of selected publications, please see the "Research" section.
 
 <br>
 
