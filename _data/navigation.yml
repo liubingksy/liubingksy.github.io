@@ -12,10 +12,10 @@ main:
 #   - title: "Research"
 #    url: /publications/
     
-#- title: "Eudcations"
-#  url: "#eudcations"
+- title: "Educations"
+#  url: "/#educations"
 
-[Bio](#bio)
+
     
 #  - title: "Talks"
 #    url: /talks/    
