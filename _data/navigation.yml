@@ -12,8 +12,8 @@ main:
 #   - title: "Research"
     url: /publications/
 
-- title: "Bio"
-  url: "#🌍 Bio"
+# - title: "Bio"
+#  url: "#🌍 Bio"
 
 #  - title: "Talks"
 #    url: /talks/    
