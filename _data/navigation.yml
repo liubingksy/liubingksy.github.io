@@ -9,9 +9,13 @@
 
 main:
 
+  - title: "Bio"
+    url: /about/#bio 
+  
   - title: "Research"
     url: /publications/    
-    
+  
+  
 
 #  - title: "Teaching"
 #    url: /teaching/    
