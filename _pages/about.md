@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: justify">
-Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, etc. below. For a research overview and a complete list of publications, please see the "Research" section.
+Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, etc. below. 
 </div>
 
 <br>
@@ -28,6 +28,8 @@ Hello! 👋 Welcome to my homepage! You can find my bio, publications, education
 <div style="text-align: justify">
 I am a PhD candidate in Applied Mathematics working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
 </div>
+
+**Research keywords**: Data Science, Science of Science, Computational Social Science, Network Science.
 
 <br>
 
@@ -63,28 +65,6 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
 </div>
-
-<!--
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
