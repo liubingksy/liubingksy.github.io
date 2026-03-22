@@ -39,9 +39,13 @@ I am a PhD candidate in Applied Mathematics at Beihang University, working at th
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# 📖 Educations
+- *2021.09 - 2026.06 (expected)*, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
+- *2015.09 - 2019.06*, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China
+
+
 # 📝 Publications 
-<div style="text-align: justify">
-  
+
 [1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 
 **Bing Liu**, Yifang Ma, Shibing Xiang, Jin Zhang, Yi Kuang, and Xin Jiang
@@ -66,11 +70,6 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
 
-</div>
-
-<div style="text-align: justify">
-</div>
-
 # 🎖 Honors and Awards
 - *2025* Second-Level School Scholarship
 - *2021* Third Prize, University Data Journalism Visualization Creative Competition
@@ -85,14 +84,19 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 - *2015* Second-Level School Scholarship
 
 
-# 📖 Educations
-- *2021.09 - 2026.06 (expected)*, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
-- *2015.09 - 2019.06*, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China 
-
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.06* Invited Participant, The University of Hong Kong
+
+Workshop: HKU 2024 Summer Workshop on Statistics and Data Analytics
+
+Responsibilities: Attended advanced statistical methods and data analysis workshops, and interacted with participants
+
+- *2020 – 2024* Teaching Assistant, Beihang University
+- 
+Courses: Mathematical Analysis; Probability Theory and Mathematical Statistics; Stochastic Processes
+
+Responsibilities: Provided tutorial support, answered student questions, graded assignments, and assisted in organizing midterm and final examinations.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
