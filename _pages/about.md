@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: justify">
-Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, education, etc. For a research overview and a complete list of publications, please see the "Research" section.
+Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, education, etc. For a research overview and a complete list of publications, please see the "Research" section. 
+  
+Find here a 2-pages CV (last update: 2026-03-23).
+
 </div>
 
 <br>
