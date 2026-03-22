@@ -12,7 +12,9 @@ venue: 'Expert Systems with Applications.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-Highlights:
+**Highlights**:
 - Composite popularity metric: Introduces a composite metric that integrates outputs and team size to capture real-time, direct field intensity.
 - Life cycle discovery: Identifies three typical evolution patterns of computer science sub-fields via DTW distance-based clustering.
 - Spatial mechanisms: Reveals the dynamic, nonlinear effects of spatial concentration and ubiquity on field popularity.
+
+![研究框架图](/images/apple-touch-icon.png)
