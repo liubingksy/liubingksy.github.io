@@ -13,7 +13,7 @@ main:
     url: /publications/
 
  - title: "Bio"
- url: "/#-bio"
+ url: "#-bio"
  
   - title: "Research"
     url: /publications/
