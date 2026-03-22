@@ -1,0 +1,73 @@
+---
+title: "Unveiling urban traffic accessibility patterns and phase diagrams of traffic direction through real-time navigation data in Beijing"
+collection: publications
+category: manuscripts
+# permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'First author.'
+date: 2024-5-01
+venue: 'Information Processing & Management'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+# paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+**Highlights**:
+- This research conducts a spatial–temporal analysis of real-time navigation data.
+- This research reveals four typical traffic accessibility evolution patterns.
+- A new indicator is introduced to resemble the spin direction in the Ising model.
+- Phase transition-like phenomena are identified through the phase diagrams.
+
+
+<style>
+  .figure-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin: 20px 0;
+  }
+  .figure-item {
+    text-align: center;
+  }
+  .figure-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .figure-caption {
+    font-size: 0.85em;
+    color: #555;
+    margin-top: 8px;
+  }
+</style>
+
+<div class="figure-grid">
+  <div class="figure-item">
+    <img src="/images/B1.jpg" alt="图A">
+    <div class="figure-caption">
+      <strong>Fig 1</strong> The results of hierarchical clustering for identifying spatial–temporal patterns in traffic accessibility.
+    </div>
+  </div>
+  <div class="figure-item">
+    <img src="/images/B2.jpg" alt="图B">
+    <div class="figure-caption">
+      <strong>Fig 2</strong> Direction velocity: A new indicator is introduced to resemble the spin direction in the Ising model.
+    </div>
+  </div>
+  <div class="figure-item">
+    <img src="/images/B3.jpg" alt="图C">
+    <div class="figure-caption">
+      <strong>Fig 3</strong> System state matrix at various timestamps on January 4, 2023. 
+    </div>
+  </div>
+  <div class="figure-item">
+    <img src="/images/B4.jpg" alt="图D">
+    <div class="figure-caption">
+      <strong>Fig 4</strong> Phase diagrams of the original system and three validation systems.
+    </div>
+  </div>
+</div>
+
+
