@@ -8,6 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+- name: "Bio"
+url: "/about/#bio"
+weight: 1
+
+
+
 #  - title: "Publications"
 #   - title: "Research"
 #    url: /publications/
