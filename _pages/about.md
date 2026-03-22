@@ -31,7 +31,6 @@ I am a PhD candidate in Applied Mathematics at Beihang University, working at th
 **Research keywords**: Data Science, Science of Science, Computational Social Science, Network Science.
 
 </div>
-<br>
 
 <!--
 # 🔥 News
@@ -40,10 +39,10 @@ I am a PhD candidate in Applied Mathematics at Beihang University, working at th
 -->
 
 # 📖 Educations
-<div style="text-align: justify">
 - ***2021.09 - 2026.06 (expected)***, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
 - ***2015.09 - 2019.06***, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China
-</div>
+
+
 
 # 📝 Publications 
 
@@ -72,29 +71,23 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
 
 # 🎖 Honors and Awards
-- ***2025*** Second-Level School Scholarship
+- ***2019 - 2025*** Second-Level School Scholarship
 - ***2021*** Third Prize, University Data Journalism Visualization Creative Competition
 - ***2019*** Outstanding Undergraduate Thesis Award
-- ***2019*** First-Level School Scholarship
+- ***2017 - 2019*** First-Level School Scholarship
 - ***2018*** Honorable Mention, The International Mathematical Contest in Modeling (MCM)
 - ***2017*** Second Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
-- ***2017*** First-Level School Scholarship
-- ***2017*** School Outstanding Student Cadre
-- ***2016*** Merit Student
-- ***2016*** Second-Level School Scholarship
-- ***2015*** Second-Level School Scholarship
+- ***2016 - 2017*** School Outstanding Student Cadre
+- ***2016 - 2018*** Merit Student
+- ***2015 - 2017*** Second-Level School Scholarship
 
 
 # 💬 Additional Experience
-<p style="text-indent:2em"> - *2024.06* Invited Participant, The University of Hong Kong </p>
-<br>
-Workshop: HKU 2024 Summer Workshop on Statistics and Data Analytics
-<br>
+- ***2024.06*** Invited Participant, The University of Hong Kong <br>
+Workshop: HKU 2024 Summer Workshop on Statistics and Data Analytics <br>
 Responsibilities: Attended advanced statistical methods and data analysis workshops, and interacted with participants
 
-<p style="text-indent:2em">  - *2020 – 2024* Teaching Assistant, Beihang University </p>
-<br>
-Courses: Mathematical Analysis; Probability Theory and Mathematical Statistics; Stochastic Processes
-<br>
+- ***2020 – 2024*** Teaching Assistant, Beihang University <br>
+Courses: Mathematical Analysis; Probability Theory and Mathematical Statistics; Stochastic Processes <br>
 Responsibilities: Provided tutorial support, answered student questions, graded assignments, and assisted in organizing midterm and final examinations.
 
