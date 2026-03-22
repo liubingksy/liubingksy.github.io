@@ -25,7 +25,8 @@ repository               : "https://liubingksy.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "apple-touch-icon.png"
+  # "profile.png"
   name             : "Bing Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Applied Mathematics"
