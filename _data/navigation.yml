@@ -8,11 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+#  - title: "Publications"
 #   - title: "Research"
-    url: /publications/
+#    url: /publications/
 
- <a href="#-bio">Bio</a></li>
+  - title: "educations"
+  url:"#bio"
  
   - title: "Research"
     url: /publications/
