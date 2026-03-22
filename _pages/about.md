@@ -1,12 +1,4 @@
----
-permalink: /
-title: "Bing Liu"
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -20,6 +12,8 @@ redirect_from:
 <div style="text-align: justify">
 Hello! 👋 Welcome to my homepage! You can find my bio, publications, educations, etc. below. For a research overview and a complete list of publications, please see the "Research" section.
 </div>
+
+<br>
 
 # 🌍 Bio
 
