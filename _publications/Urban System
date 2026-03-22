@@ -2,7 +2,7 @@
 title: "Unveiling urban traffic accessibility patterns and phase diagrams of traffic direction through real-time navigation data in Beijing"
 collection: publications
 category: manuscripts
-# permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Urban System
 excerpt: 'First author.'
 date: 2024-5-01
 venue: 'Information Processing & Management'
@@ -30,12 +30,13 @@ venue: 'Information Processing & Management'
   .figure-item {
     text-align: center;
   }
-  .figure-item img {
-    width: 350px;  
-    height: 250px; 
-    object-fit: cover; 
+   .figure-item img {
+    width: 400px;
+    height: 280px;
+    object-fit: contain;  
     border: 1px solid #ddd;
     border-radius: 4px;
+    background-color: #f5f5f5; 
   }
   .figure-caption {
     font-size: 0.85em;
