@@ -19,16 +19,25 @@ venue: 'Information Processing & Management'
 - Phase transition-like phenomena are identified through the phase diagrams.
 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="/images/A1.jpg" alt="Fig A" width="100%">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="text-align: center; flex: 1;">
+    <a href="/images/B1.jpg" target="_blank">
+      <img src="/images/B2.jpg" alt="研究框架" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+    </a>
+    <div style="font-size: 0.85em; margin-top: 8px;">
+      <strong>图1(a)</strong> 非线性效应研究框架<br>
+      <span style="font-size: 0.75em; color: #888;">点击放大</span>
+    </div>
   </div>
-  <div style="text-align: center;">
-    <img src="/images/A2.jpg" alt="Fig B" width="100%">
+  <div style="text-align: center; flex: 1;">
+    <a href="/images/B3.jpg" target="_blank">
+      <img src="/images/B4.jpg" alt="" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+    </a>
+    <div style="font-size: 0.85em; margin-top: 8px;">
+      <strong>图1(b)</strong> 40年演变趋势实证结果<br>
+      <span style="font-size: 0.75em; color: #888;">点击放大</span>
+    </div>
   </div>
-  <figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 8px;">
-    <strong>Main Results</strong>：(a) Schematic of a field’s popularity life cycle, and three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
-  </figcaption>
 </div>
 
 
