@@ -17,16 +17,6 @@ venue: 'Expert Systems with Applications.'
 - Life cycle discovery: Identifies three typical evolution patterns of computer science sub-fields via DTW distance-based clustering.
 - Spatial mechanisms: Reveals the dynamic, nonlinear effects of spatial concentration and ubiquity on field popularity.
 
-<figure style="text-align: center; margin: 20px 0;">
-  <img src="/images/A1.jpg" 
-       alt="研究框架图" 
-       width="85%" 
-       style="border: 1px solid #ddd; border-radius: 4px;">
-  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
-    <strong>Fig 1</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. 
-  </figcaption>
-</figure>
-
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="text-align: center;">
@@ -36,7 +26,7 @@ venue: 'Expert Systems with Applications.'
     <img src="/images/A2.jpg" alt="图B" width="80%">
   </div>
   <figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 8px;">
-    <strong>图1</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
+    <strong>Main Results</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
   </figcaption>
 </div>
 
