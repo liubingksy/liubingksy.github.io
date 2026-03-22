@@ -32,6 +32,8 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 
 </div>
 
+<br>
+
 <!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,7 +44,7 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 - ***2021.09 - 2026.06 (expected)***, PhD in Applied Mathematics, School of Mathematical Sciences, Beihang University, Beijing, China
 - ***2015.09 - 2019.06***, BSc in Information and Computing Science, School of Mathematics and Information Sciences, Hebei University, Baoding, China
 
-
+<br>
 
 # 📝 Publications 
 
@@ -70,6 +72,8 @@ Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifan
 <br>
 Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang 
 
+<br>
+
 # 🎖 Honors and Awards
 - ***2019 - 2025*** Second-Level School Scholarship
 - ***2021*** Third Prize, University Data Journalism Visualization Creative Competition
@@ -81,6 +85,7 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 - ***2016 - 2018*** Merit Student
 - ***2015 - 2017*** Second-Level School Scholarship
 
+<br>
 
 # 💬 Additional Experience
 - ***2024.06*** Invited Participant, The University of Hong Kong <br>
