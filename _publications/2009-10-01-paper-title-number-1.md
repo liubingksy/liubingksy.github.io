@@ -20,10 +20,10 @@ venue: 'Expert Systems with Applications.'
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="text-align: center;">
-    <img src="/images/A1.jpg" alt="图A" width="80%">
+    <img src="/images/A1.jpg" alt="Fig A" width="80%">
   </div>
   <div style="text-align: center;">
-    <img src="/images/A2.jpg" alt="图B" width="80%">
+    <img src="/images/A2.jpg" alt="Fig B" width="80%">
   </div>
   <figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 8px;">
     <strong>Main Results</strong>：(a) Schematic of a field’s popularity life cycle. Three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
