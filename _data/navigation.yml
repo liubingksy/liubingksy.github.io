@@ -10,7 +10,7 @@
 main:
 
   - title: "Bio"
-    url: /about/#bio 
+    url: #bio 
 
   - title: "Educations"
     url: /about/#educations
