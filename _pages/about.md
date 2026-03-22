@@ -9,9 +9,18 @@ redirect_from:
 ---
 -->
 
+Hello! 👋 Welcome to my homepage! You can find news, BL profiles, and publications below. For a research overview and a complete list of publications, please see the "Research" section.
+
+Bio
 I am a PhD candidate in Applied Mathematics working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing \& Management, and JASIS\&T.
 
+
+
+
+<!--
+
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 A data-driven personal website
 ======
@@ -55,4 +64,5 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
+-->
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
