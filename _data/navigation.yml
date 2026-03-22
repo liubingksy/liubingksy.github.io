@@ -9,19 +9,6 @@
 
 main:
 
-
-#  - title: "Publications"
- # - title: "Research"
-#   url: /publications/
-  
- 
-#  url: "/about/#educations"
-
-
-    
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Research"
     url: /publications/    
     
