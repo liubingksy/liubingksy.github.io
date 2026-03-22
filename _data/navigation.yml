@@ -12,8 +12,7 @@ main:
 #   - title: "Research"
     url: /publications/
 
- - title: "Bio"
- url: "#-bio"
+ <a href="#-bio">Bio</a></li>
  
   - title: "Research"
     url: /publications/
