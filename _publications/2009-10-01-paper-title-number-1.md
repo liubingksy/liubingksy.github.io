@@ -2,7 +2,7 @@
 title: "Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+# permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'First author.'
 date: 2025-11-01
 venue: 'Expert Systems with Applications'
