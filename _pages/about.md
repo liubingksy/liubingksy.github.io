@@ -8,47 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  /* 为整个页面添加背景图 */
-  body {
-    background-image: url('/images/1000027591.JPG');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-  }
-  
-  /* 让主要内容区域有半透明背景，提高可读性 */
-  .masthead,
-  .page__content,
-  .page__footer,
-  .sidebar {
-    background-color: rgba(255, 255, 255, 0.92);
-    backdrop-filter: blur(2px);
-    border-radius: 12px;
-    padding: 15px;
-  }
-  
-  /* 主内容区域额外样式 */
-  .main__wrapper {
-    background-color: rgba(255, 255, 255, 0.88);
-    border-radius: 16px;
-    padding: 20px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-  }
-  
-  /* 确保文字可读 */
-  .page__content {
-    color: #1a1a1a;
-  }
-  
-  .page__content h1,
-  .page__content h2,
-  .page__content h3 {
-    color: #1e3c72;
-  }
-</style>
-
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
