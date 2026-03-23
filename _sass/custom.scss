@@ -1,0 +1,25 @@
+// 为整个网站添加背景图片
+body {
+  background-image: url('/images/your-background.jpg');
+  background-size: cover;           // 图片覆盖整个页面
+  background-position: center;      // 图片居中
+  background-attachment: fixed;     // 固定背景，滚动时不动
+  background-repeat: no-repeat;     // 不重复
+}
+
+// 如果需要为主要内容区域添加半透明背景，提高可读性
+.page__content,
+.page__hero,
+.masthead,
+.page__footer {
+  background-color: rgba(255, 255, 255, 0.9);  // 半透明白色背景
+  backdrop-filter: blur(2px);                  // 可选：模糊效果
+}
+
+// 或者只给主要内容添加背景
+.main__wrapper,
+#main {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 8px;
+}
