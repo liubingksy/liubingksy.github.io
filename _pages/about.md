@@ -54,13 +54,13 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 
 <h1 id="publications">📝 Publications</h1>
 
-### 🚗 Urban System
+### 🚗 Urban Mobility
 
 [1] ***2024.5*** [Unveiling urban traffic accessibility patterns and phase diagrams of traffic direction through real-time navigation data in Beijing](https://doi.org/10.1016/j.ipm.2024.103660), In: *Information Processing & Management*.
 <br>
 **Bing Liu**, Yifang Ma, Jin Zhang, Yi Kuang, Bian, Junjie , and Xin Jiang 
 
-### 🧐 Knowledge system
+### 🧐 Knowledge Evolution
 
 [2] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
 <br>
