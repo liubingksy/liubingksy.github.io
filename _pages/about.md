@@ -54,13 +54,17 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 
 <h1 id="publications">📝 Publications</h1>
 
-[1] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
-<br>
-**Bing Liu**, Yifang Ma, Shibing Xiang, Jin Zhang, Yi Kuang, and Xin Jiang
+**Urban System**:
 
-[2] ***2024.5*** [Unveiling urban traffic accessibility patterns and phase diagrams of traffic direction through real-time navigation data in Beijing](https://doi.org/10.1016/j.ipm.2024.103660), In: *Information Processing & Management*.
+[1] ***2024.5*** [Unveiling urban traffic accessibility patterns and phase diagrams of traffic direction through real-time navigation data in Beijing](https://doi.org/10.1016/j.ipm.2024.103660), In: *Information Processing & Management*.
 <br>
 **Bing Liu**, Yifang Ma, Jin Zhang, Yi Kuang, Bian, Junjie , and Xin Jiang 
+
+**Knowledge system**:
+
+[2] ***2025.11*** [Nonlinear effects of spatial determinants on the popularity of scientific fields: Evidence from 40 Years of Computer Science](https://doi.org/10.1016/j.eswa.2025.130315), In: *Expert Systems with Applications*.
+<br>
+**Bing Liu**, Yifang Ma, Shibing Xiang, Jin Zhang, Yi Kuang, and Xin Jiang
 
 [3] ***2022.11*** [TELS: Evolution patterns of research keywords from the evidence of PNAS Social Sciences topics](https://doi.org/10.3389/fdata.2022.1045513), In: *Frontiers in Big Data*.
 <br>
@@ -73,6 +77,8 @@ Shibing Xiang, **Bing Liu**, Xin Jiang, Zhengan Huang, and Yifang Ma
 [5] ***2025.4*** [SciConNav: Knowledge navigation through contextual learning of extensive scientific research trajectories](https://doi.org/10.1002/asi.25005), In: *Journal of the Association for Information Science and Technology*.
 <br>
 Shibing Xiang, Xin Jiang, **Bing Liu**, Yurui Huang, and Chaolin Tian, and Yifang Ma
+
+**Others**:
 
 [6] ***2020.10*** [Big data mining for spatial-temporal characteristics of catering data](https://doi.org/10.1109/CCCI49893.2020.9256520), In: *2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)*.
 <br>
