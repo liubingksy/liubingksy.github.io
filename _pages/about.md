@@ -11,7 +11,7 @@ redirect_from:
 <style>
   /* 为整个页面添加背景图 */
   body {
-    background-image: url('/images/apple-touch-icon.png');
+    background-image: url('/images/1000027591.JPG');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
