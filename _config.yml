@@ -363,12 +363,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Custom CSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# 如果使用自定义样式文件
-include:
-  - _sass
