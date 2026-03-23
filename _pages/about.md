@@ -52,7 +52,8 @@ I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/"
 <br>
 
 
-<h1 id="publications">📝 Publications</h1>
+<h1 id="publications" style="border-bottom: 2px solid #ccc; padding-bottom: 8px;">📝 Publications</h1>
+
 
 ### 🚗 Urban Mobility
 
@@ -86,7 +87,8 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 
 <br>
 
-<h1 id="honors">🎖 Honors and Awards</h1>
+<h1 id="honors"style="border-bottom: 2px solid #ccc; padding-bottom: 8px;">🎖 Honors and Awards</h1>
+
 - ***2019 - 2025*** Second-Level School Scholarship
 - ***2021*** Third Prize, University Data Journalism Visualization Creative Competition
 - ***2019*** Outstanding Undergraduate Thesis Award
@@ -99,7 +101,8 @@ Yue Zeng, Xiru Hou, **Bing Liu**, and Xin Jiang
 
 <br>
 
-<h1 id="additional">💬 Additional Experiences</h1>
+<h1 id="additional"style="border-bottom: 2px solid #ccc; padding-bottom: 8px;">💬 Additional Experiences</h1>
+
 - ***2024.06*** Invited Participant, The University of Hong Kong <br>
 Workshop: HKU 2024 Summer Workshop on Statistics and Data Analytics <br>
 Responsibilities: Attended advanced statistical methods and data analysis workshops, and interacted with participants
