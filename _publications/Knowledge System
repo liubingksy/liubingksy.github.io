@@ -61,13 +61,12 @@ venue: 'Expert Systems with Applications'
   
   <figure style="margin: 0; text-align: center;">
     <a href="/images/A.jpg" target="_blank">
-      <img src="/images/A.jpg" alt="实证结果" width="70%">
+      <img src="/images/A.jpg" alt="" width="70%">
     </a>
-    <figcaption style="font-size: 0.85em;">(b) 实证结果</figcaption>
   </figure>
   
   <div style="text-align: center; font-size: 0.9em; margin-top: 5px;">
-    <strong>图1</strong>：非线性效应研究框架与40年实证结果分析<br>
-    <span style="font-size: 0.85em; color: #666;">（点击图片可放大）</span>
+    <strong>Main results: </strong> (a) Schematic of a field’s popularity life cycle, and three typical life cycle patterns of research popularity are identified through time-series clustering. (b) Factors influencing field popularity. (c) Regression results illustrating the nonlinear marginal effects of spatial determinants.
+      <span style="font-size: 0.85em; color: #666;"></span>
   </div>
 </div>
