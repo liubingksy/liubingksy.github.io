@@ -23,14 +23,43 @@ venue: 'Information Processing & Management'
 <br>
 
 <style>
-  .figure-item img {
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-  .figure-item img:hover {
-    transform: scale(1.02);
+  /* 2×2网格布局 */
+  .figure-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin: 20px 0;
   }
   
+  .figure-item {
+    text-align: center;
+  }
+  
+  .figure-item img {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+  }
+  
+  .figure-item img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .figure-caption {
+    font-size: 0.85em;
+    color: #555;
+    margin-top: 8px;
+    line-height: 1.4;
+  }
+  
+  /* 灯箱样式 */
   .lightbox-overlay {
     display: none;
     position: fixed;
@@ -38,10 +67,11 @@ venue: 'Information Processing & Management'
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,0.9);
+    background: rgba(0, 0, 0, 0.9);
     z-index: 10000;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
   }
   
   .lightbox-overlay.active {
@@ -51,25 +81,43 @@ venue: 'Information Processing & Management'
   .lightbox-overlay img {
     max-width: 90%;
     max-height: 90%;
+    object-fit: contain;
+    cursor: default;
+  }
+  
+  /* 响应式：手机端变为1列 */
+  @media (max-width: 768px) {
+    .figure-grid {
+      grid-template-columns: 1fr;
+      gap: 25px;
+    }
   }
 </style>
 
 <div class="figure-grid">
   <div class="figure-item">
-    <img src="/images/B1.jpg" alt="" onclick="openLightbox(this)">
-    <div class="figure-caption"><strong>Fig 1</strong> The results of hierarchical clustering for identifying spatial–temporal patterns in traffic accessibility.</div>
+    <img src="/images/B1.jpg" alt="Fig 1" onclick="openLightbox(this)">
+    <div class="figure-caption">
+      <strong>Fig 1</strong> The results of hierarchical clustering for identifying spatial–temporal patterns in traffic accessibility.
+    </div>
   </div>
   <div class="figure-item">
-    <img src="/images/B2.jpg" alt="" onclick="openLightbox(this)">
-    <div class="figure-caption"><strong>Fig 2</strong> Direction velocity: A new indicator is introduced to resemble the spin direction in the Ising model.</div>
+    <img src="/images/B2.jpg" alt="Fig 2" onclick="openLightbox(this)">
+    <div class="figure-caption">
+      <strong>Fig 2</strong> Direction velocity: A new indicator is introduced to resemble the spin direction in the Ising model.
+    </div>
   </div>
   <div class="figure-item">
-    <img src="/images/B3.jpg" alt="" onclick="openLightbox(this)">
-    <div class="figure-caption"><strong>Fig 3</strong>System state matrix at various timestamps on January 4, 2023. </div>
+    <img src="/images/B3.jpg" alt="Fig 3" onclick="openLightbox(this)">
+    <div class="figure-caption">
+      <strong>Fig 3</strong> System state matrix at various timestamps on January 4, 2023.
+    </div>
   </div>
   <div class="figure-item">
-    <img src="/images/B4.jpg" alt="" onclick="openLightbox(this)">
-    <div class="figure-caption"><strong>Fig 4</strong> Phase diagrams of the original system and three validation systems.</div>
+    <img src="/images/B4.jpg" alt="Fig 4" onclick="openLightbox(this)">
+    <div class="figure-caption">
+      <strong>Fig 4</strong> Phase diagrams of the original system and three validation systems.
+    </div>
   </div>
 </div>
 
