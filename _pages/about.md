@@ -32,8 +32,10 @@ Find here a 2-pages <a href="CV.pdf" target="_blank">CV</a> (last update: 2026-0
 <h1 id="aboutme" style="border-bottom: 2px solid #ccc; padding-bottom: 8px;">🌍 About me</h1>
 
 <div style="text-align: justify">
-I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/" target="_blank">Beihang University</a>, working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
+I am a PhD candidate in Applied Mathematics at <a href="https://ev.buaa.edu.cn/" target="_blank">Beihang University</a>, working at the intersection of data science, computational social science, and science of science. I have a background in applied mathematics, research experience in data science, and broad interests in spatial-temporal data mining and network science. My research focuses on <span style="font-weight: bold; color: #2c3e50;">quantitative discovery of temporal, spatial, and network-based patterns in large-scale dynamic systems</span>, especially scientific knowledge evolution and urban mobility. My work integrates statistical modeling, network science, and spatial analysis, and has been published in Expert Systems with Applications, Information Processing & Management, and JASIS&T.
 </div>
+
+
 
 **Research keywords**: Data Science, Science of Science, Computational Social Science, Network Science.
 
